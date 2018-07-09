@@ -29,3 +29,7 @@ def lasso
   puts "3. Raise right forearm so that it points straight up, and whip it in small circles to the beat of the song,
   as if you were a cowboy holding a rope lasso."
 end
+assume stance
+footwork
+bob the reins + skip-step x8
+lasso + skip-steps x 8
