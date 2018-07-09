@@ -22,6 +22,7 @@ def bob_the_reins
   puts "1. Holding arms out in front, straight and at chest level"
   puts " 2.Cross right wrist overleft and hold them together"
   puts "3. Lift arms up and down in a loose bouncing movement, in time with the beat of the song. "
+  puts "Do"
 end 
 def lasso 
   puts "1. Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left 
