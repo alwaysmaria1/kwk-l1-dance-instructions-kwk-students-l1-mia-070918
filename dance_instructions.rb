@@ -13,7 +13,8 @@ def skip_step(step)
   puts "Bounce"
   puts "Briefly"
 end
-
+base_footwork
+ 
 def bob_the_reins 
   puts "1. Holding your arms out in front of you, straight and at chest level"
   puts " 2.Cross your right wrist over your left and hold them together"
