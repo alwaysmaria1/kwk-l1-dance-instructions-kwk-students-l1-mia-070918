@@ -14,7 +14,7 @@ def skip_step(step)
   puts "Briefly"
 end
 def base_footwork
-  puts " Lift and return their right foot" 
+  puts " lift and return their right foot" 
 end
 def bob_the_reins 
   puts "1. Holding your arms out in front of you, straight and at chest level"
