@@ -1,6 +1,6 @@
 
 # Code your methods below
-def assume_stance
+def starting_stance
    puts " 1. Plant legs far apart, bend knees slightly and keep posture loose"
 end
 def basic_foot_work
