@@ -25,7 +25,7 @@ def bob_the_reins
   puts "Do"
 end 
 def bust_a_move
-  put "bust a move"
+  puts "bust a move"
 end
 def lasso 
   puts "1. Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left 
