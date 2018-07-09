@@ -8,15 +8,12 @@ def basic_foot_work
  puts "2. Return right foot to the ground"
  puts "3. Finishing with a small skip-step backward"
 end
-def skip_step
-  puts " Skip Step left"
-  puts " 1. lower left foot to the ground"
-  puts "2. Bounce left foot back up slightly, kicking it a few inches back"
-  puts "3. Left,Right, Left and Left"
-  puts " Skip STep Right"
-  puts "1. Lower right foot to the ground"
-  puts "2. Bounce right foot back up slightly, kicking it a few inches back"
+def skip_step(step)
+  puts "Lower"
+  puts "Bounce"
+  puts "Briefly"
 end
+
 def bob_the_reins 
   puts "1. Holding your arms out in front of you, straight and at chest level"
   puts " 2.Cross your right wrist over your left and hold them together"
